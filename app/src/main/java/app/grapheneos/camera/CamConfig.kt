@@ -82,7 +82,7 @@ class CamConfig(private val mActivity: MainActivity) {
     object SettingValues {
 
         object Key {
-            const val SELF_ILLUMINATION = "self_illumination"
+            const val SELF_ILLUMINATION = "skibidi_sigma_mode"
             const val GEO_TAGGING = "geo_tagging"
             const val FLASH_MODE = "flash_mode"
             const val GRID = "grid"
