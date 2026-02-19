@@ -93,7 +93,7 @@ class CamConfig(private val mActivity: MainActivity) {
             const val ASPECT_RATIO = "aspect_ratio"
             const val INCLUDE_AUDIO = "include_audio"
             const val ENABLE_EIS = "enable_eis"
-            const val SCAN = "scan"
+            const val SCAN = "let's_get_scanny"
             const val SCAN_ALL_CODES = "scan_all_codes"
             const val SAVE_IMAGE_AS_PREVIEW = "save_image_as_preview"
             const val SAVE_VIDEO_AS_PREVIEW = "save_video_as_preview"
